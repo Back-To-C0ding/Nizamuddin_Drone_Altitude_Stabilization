@@ -1,6 +1,5 @@
 %% ================================================
 %  SCRIPT 5 — BONUS FEATURES
-%  Control Craft Hackathon 2026
 %% ================================================
 
 clc; clear; close all;
