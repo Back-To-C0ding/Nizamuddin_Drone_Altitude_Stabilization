@@ -1,5 +1,3 @@
-%% Auto-build Simulink model for drone altitude control
-% Run this in MATLAB — builds and opens the model automatically
 
 mdl = 'drone_altitude_control';
 new_system(mdl);
