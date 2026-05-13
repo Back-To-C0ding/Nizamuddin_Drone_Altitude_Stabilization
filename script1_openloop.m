@@ -1,8 +1,6 @@
 %% ================================================
 %  SCRIPT 1: Open-Loop Analysis
-%  Control Craft Hackathon 2026 — PS1
 %  Drone Altitude Stabilization
-%  Team: [Your Name] & [Partner Name]
 %% ================================================
 
 clc; clear; close all;
