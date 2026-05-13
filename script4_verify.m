@@ -1,6 +1,5 @@
 %% ================================================
 %  SCRIPT 4: Final Spec Verification
-%  Run this last to confirm everything passes
 %% ================================================
 
 clc; clear; close all;
