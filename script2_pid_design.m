@@ -1,6 +1,5 @@
 %% ================================================
 %  SCRIPT 2: PID Controller Design
-%  Control Craft Hackathon 2026 — PS1
 %% ================================================
 
 clc; clear; close all;
