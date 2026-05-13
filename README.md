@@ -3,8 +3,8 @@
 **BNMIT · Department of ECE · Problem Statement 1**
 
 ## Team
-- **Member 1:** [Nizamuddin s]
-- **Member 2:** [p pratyush]
+- **Member 1:** Nizamuddin s
+- **Member 2:** p pratyush
 
 ---
 
