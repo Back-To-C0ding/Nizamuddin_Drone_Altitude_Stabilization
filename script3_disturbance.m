@@ -1,7 +1,6 @@
 %% ================================================
 %  SCRIPT 3: Disturbance Simulation
 %  Wind gust applied at plant input at t = 5s
-%  Control Craft Hackathon 2026 — PS1
 %% ================================================
 
 clc; clear; close all;
